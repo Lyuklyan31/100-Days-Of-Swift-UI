@@ -1,0 +1,225 @@
+
+Showing Recent Issues
+
+Build target Animations of project Animations with configuration Debug
+warning: Skipping duplicate build file in Compile Sources build phase: /Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets (in target 'Animations' from project 'Animations')
+
+
+Skipping duplicate build file in Compile Sources build phase: /Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets
+
+CompileAssetCatalog /Users/admin/Library/Developer/Xcode/DerivedData/Animations-fypzbgcrmluvgueeaoqzpkrnthim/Build/Intermediates.noindex/Previews/Animations/Products/Debug-iphonesimulator/Animations.app /Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets /Users/admin/Desktop/SWIFT/Animations/Animations/Preview\ Content/Preview\ Assets.xcassets /Users/admin/Desktop/SWIFT/Animations/Assets.xcassets (in target 'Animations' from project 'Animations')
+    cd /Users/admin/Desktop/SWIFT/Animations
+    /Applications/Xcode-15.0.0-Beta.5.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/admin/Library/Developer/Xcode/DerivedData/Animations-fypzbgcrmluvgueeaoqzpkrnthim/Build/Intermediates.noindex/Previews/Animations/Intermediates.noindex/Animations.build/Debug-iphonesimulator/Animations.build/assetcatalog_dependencies --output-partial-info-plist /Users/admin/Library/Developer/Xcode/DerivedData/Animations-fypzbgcrmluvgueeaoqzpkrnthim/Build/Intermediates.noindex/Previews/Animations/Intermediates.noindex/Animations.build/Debug-iphonesimulator/Animations.build/assetcatalog_generated_info.plist --app-icon AppIcon --accent-color AccentColor --compress-pngs --enable-on-demand-resources YES --development-region en --target-device iphone --target-device ipad --minimum-deployment-target 16.5 --platform iphonesimulator --compile /Users/admin/Library/Developer/Xcode/DerivedData/Animations-fypzbgcrmluvgueeaoqzpkrnthim/Build/Intermediates.noindex/Previews/Animations/Products/Debug-iphonesimulator/Animations.app /Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets /Users/admin/Desktop/SWIFT/Animations/Animations/Preview\ Content/Preview\ Assets.xcassets /Users/admin/Desktop/SWIFT/Animations/Assets.xcassets
+
+/* com.apple.actool.errors */
+: error: There are multiple stickers icon set or app icon set instances named "AppIcon".
+/* com.apple.actool.document.warnings */
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./giraffe 1.imageset: warning: The image set name "giraffe 1" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./giraffe 1.imageset: warning: The image set name "giraffe 1" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./duck 1.imageset: warning: The image set name "duck 1" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./duck 1.imageset: warning: The image set name "duck 1" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./sloth.imageset: warning: The image set name "sloth" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./sloth.imageset: warning: The image set name "sloth" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./snake.imageset: warning: The image set name "snake" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./snake.imageset: warning: The image set name "snake" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./crocodile.imageset: warning: The image set name "crocodile" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./crocodile.imageset: warning: The image set name "crocodile" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./gorilla.imageset: warning: The image set name "gorilla" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./gorilla.imageset: warning: The image set name "gorilla" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./goat.imageset: warning: The image set name "goat" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./goat.imageset: warning: The image set name "goat" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./cow.imageset: warning: The image set name "cow" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./cow.imageset: warning: The image set name "cow" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./bear.imageset: warning: The image set name "bear" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./bear.imageset: warning: The image set name "bear" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./frog.imageset: warning: The image set name "frog" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./frog.imageset: warning: The image set name "frog" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./dog.imageset: warning: The image set name "dog" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./dog.imageset: warning: The image set name "dog" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./moose.imageset: warning: The image set name "moose" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./moose.imageset: warning: The image set name "moose" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./hippo.imageset: warning: The image set name "hippo" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./hippo.imageset: warning: The image set name "hippo" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./buffalo.imageset: warning: The image set name "buffalo" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./buffalo.imageset: warning: The image set name "buffalo" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./horse.imageset: warning: The image set name "horse" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./horse.imageset: warning: The image set name "horse" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./monkey.imageset: warning: The image set name "monkey" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./monkey.imageset: warning: The image set name "monkey" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./rabbit.imageset: warning: The image set name "rabbit" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./rabbit.imageset: warning: The image set name "rabbit" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./pig.imageset: warning: The image set name "pig" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./pig.imageset: warning: The image set name "pig" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./panda.imageset: warning: The image set name "panda" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./panda.imageset: warning: The image set name "panda" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./chicken.imageset: warning: The image set name "chicken" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./chicken.imageset: warning: The image set name "chicken" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./penguin.imageset: warning: The image set name "penguin" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./penguin.imageset: warning: The image set name "penguin" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./elephant.imageset: warning: The image set name "elephant" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./elephant.imageset: warning: The image set name "elephant" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./narwhal.imageset: warning: The image set name "narwhal" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./narwhal.imageset: warning: The image set name "narwhal" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./parrot.imageset: warning: The image set name "parrot" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./parrot.imageset: warning: The image set name "parrot" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./snake 1.imageset: warning: The image set name "snake 1" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./snake 1.imageset: warning: The image set name "snake 1" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./giraffe.imageset: warning: The image set name "giraffe" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./giraffe.imageset: warning: The image set name "giraffe" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./owl.imageset: warning: The image set name "owl" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./owl.imageset: warning: The image set name "owl" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./rhino.imageset: warning: The image set name "rhino" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./rhino.imageset: warning: The image set name "rhino" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./crocodile 1.imageset: warning: The image set name "crocodile 1" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./crocodile 1.imageset: warning: The image set name "crocodile 1" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./fon.imageset: warning: The image set name "fon" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./fon.imageset: warning: The image set name "fon" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./duck.imageset: warning: The image set name "duck" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./duck.imageset: warning: The image set name "duck" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./chick.imageset: warning: The image set name "chick" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./chick.imageset: warning: The image set name "chick" is used by multiple image sets.
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./Thumbs.dataset: warning: The data set name "Thumbs" is used by multiple data sets.
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./Thumbs.dataset: warning: The data set name "Thumbs" is used by multiple data sets.
+/* com.apple.actool.compilation-results */
+/Users/admin/Library/Developer/Xcode/DerivedData/Animations-fypzbgcrmluvgueeaoqzpkrnthim/Build/Intermediates.noindex/Previews/Animations/Intermediates.noindex/Animations.build/Debug-iphonesimulator/Animations.build/assetcatalog_generated_info.plist
+/Users/admin/Library/Developer/Xcode/DerivedData/Animations-fypzbgcrmluvgueeaoqzpkrnthim/Build/Intermediates.noindex/Previews/Animations/Products/Debug-iphonesimulator/Animations.app/Assets.car
+
+Command CompileAssetCatalog failed with a nonzero exit code
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./giraffe 1.imageset: The image set name "giraffe 1" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./giraffe 1.imageset: The image set name "giraffe 1" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./duck 1.imageset: The image set name "duck 1" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./duck 1.imageset: The image set name "duck 1" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./sloth.imageset: The image set name "sloth" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./sloth.imageset: The image set name "sloth" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./snake.imageset: The image set name "snake" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./snake.imageset: The image set name "snake" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./crocodile.imageset: The image set name "crocodile" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./crocodile.imageset: The image set name "crocodile" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./gorilla.imageset: The image set name "gorilla" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./gorilla.imageset: The image set name "gorilla" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./goat.imageset: The image set name "goat" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./goat.imageset: The image set name "goat" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./cow.imageset: The image set name "cow" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./cow.imageset: The image set name "cow" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./bear.imageset: The image set name "bear" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./bear.imageset: The image set name "bear" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./frog.imageset: The image set name "frog" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./frog.imageset: The image set name "frog" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./dog.imageset: The image set name "dog" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./dog.imageset: The image set name "dog" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./moose.imageset: The image set name "moose" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./moose.imageset: The image set name "moose" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./hippo.imageset: The image set name "hippo" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./hippo.imageset: The image set name "hippo" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./buffalo.imageset: The image set name "buffalo" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./buffalo.imageset: The image set name "buffalo" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./horse.imageset: The image set name "horse" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./horse.imageset: The image set name "horse" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./monkey.imageset: The image set name "monkey" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./monkey.imageset: The image set name "monkey" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./rabbit.imageset: The image set name "rabbit" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./rabbit.imageset: The image set name "rabbit" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./pig.imageset: The image set name "pig" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./pig.imageset: The image set name "pig" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./panda.imageset: The image set name "panda" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./panda.imageset: The image set name "panda" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./chicken.imageset: The image set name "chicken" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./chicken.imageset: The image set name "chicken" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./penguin.imageset: The image set name "penguin" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./penguin.imageset: The image set name "penguin" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./elephant.imageset: The image set name "elephant" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./elephant.imageset: The image set name "elephant" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./narwhal.imageset: The image set name "narwhal" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./narwhal.imageset: The image set name "narwhal" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./parrot.imageset: The image set name "parrot" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./parrot.imageset: The image set name "parrot" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./snake 1.imageset: The image set name "snake 1" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./snake 1.imageset: The image set name "snake 1" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./giraffe.imageset: The image set name "giraffe" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./giraffe.imageset: The image set name "giraffe" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./owl.imageset: The image set name "owl" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./owl.imageset: The image set name "owl" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./rhino.imageset: The image set name "rhino" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./rhino.imageset: The image set name "rhino" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./crocodile 1.imageset: The image set name "crocodile 1" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./crocodile 1.imageset: The image set name "crocodile 1" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./fon.imageset: The image set name "fon" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./fon.imageset: The image set name "fon" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./duck.imageset: The image set name "duck" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./duck.imageset: The image set name "duck" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./chick.imageset: The image set name "chick" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./chick.imageset: The image set name "chick" is used by multiple image sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Animations/Assets.xcassets:./Thumbs.dataset: The data set name "Thumbs" is used by multiple data sets.
+
+/Users/admin/Desktop/SWIFT/Animations/Assets.xcassets:./Thumbs.dataset: The data set name "Thumbs" is used by multiple data sets.
+
+Command CompileAssetCatalog failed with a nonzero exit code
+
+
+
+Build failed    16.02.2024, 18:27    2.9 seconds
